@@ -54,6 +54,7 @@ a {
     height: 15px;
     border: 0;
     border-top: solid #272727 3px;
+    cursor: pointer;
     transition: 200ms transform linear; 
     -webkit-transition: 200ms transform linear;  
     -moz-transition: 200ms transform linear; 
